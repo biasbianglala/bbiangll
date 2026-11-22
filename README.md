@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">My name is ... and I'm a ..., from ....</p>
+<p data-importer="text" align="left">My name is bia and I'm a junior data scientist, from indonesia</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p data-importer="text" align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning python and machine learning<br>🎯 Goals: to be remote worker within slow living<br>🎲 Fun fact: nothing to be weird</p>
 
 ###
 
